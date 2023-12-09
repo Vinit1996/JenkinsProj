@@ -55,7 +55,7 @@ jobs:
           uses: docker/build-push-action@v5.1.0
           with:
             push: true
-            tags: v996/testjenkin:latest
+            tags: v996/testjenkin:v1
         
        
        
